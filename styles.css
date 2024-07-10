@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+header {
+    background-color: #333;
+    color: aqua;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.country {
+    background-color: rgb(219, 199, 219);
+    border: 15px solid #8b69ab;
+    border-radius: 20px;
+    box-shadow:  0 0 20px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+}
+
+.country h2 {
+    margin-top: 0;
+}
+
+.music-player {
+    margin-top: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
